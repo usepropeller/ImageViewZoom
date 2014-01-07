@@ -17,3 +17,6 @@ local.properties
 
 # Maven generated files
 target/
+
+build/
+*.gradle
